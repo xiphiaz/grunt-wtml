@@ -1,42 +1,44 @@
 {
-  "name": "grunt-wtml",
-  "description": "Converts .wtml template files into .tpl.html files",
-  "version": "0.0.1",
-  "homepage": "https://github.com/xiphiaz/grunt-wtml",
-  "author": {
-    "name": "Zak Henry",
-    "email": "zak.henry@gmail.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/xiphiaz/grunt-wtml"
-  },
-  "bugs": {
-    "url": "https://github.com/xiphiaz/grunt-wtml"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/xiphiaz/grunt-wtml/blob/master/LICENSE-MIT"
-    }
-  ],
-  "main": "Gruntfile.js",
-  "engines": {
-    "node": ">= 0.8.0"
-  },
-  "scripts": {
-    "test": "grunt test"
-  },
-  "devDependencies": {
-    "grunt-contrib-jshint": "~0.6.0",
-    "grunt-contrib-clean": "~0.4.0",
-    "grunt-contrib-nodeunit": "~0.2.0",
-    "grunt": "~0.4.1"
-  },
-  "peerDependencies": {
-    "grunt": "~0.4.1"
-  },
-  "keywords": [
-    "gruntplugin"
-  ]
+    "name": "grunt-wtml",
+    "description": "Converts .wtml template files into .tpl.html files",
+    "version": "0.0.1",
+    "homepage": "https://github.com/xiphiaz/grunt-wtml",
+    "author": {
+        "name": "Zak Henry",
+        "email": "zak.henry@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/xiphiaz/grunt-wtml"
+    },
+    "bugs": {
+        "url": "https://github.com/xiphiaz/grunt-wtml"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/xiphiaz/grunt-wtml/blob/master/LICENSE-MIT"
+        }
+    ],
+    "main": "Gruntfile.js",
+    "engines": {
+        "node": ">= 0.8.0"
+    },
+    "scripts": {
+        "test": "grunt test"
+    },
+    "devDependencies": {
+        "grunt-contrib-jshint": "~0.6.0",
+        "grunt-contrib-clean": "~0.4.0",
+        "grunt-contrib-nodeunit": "~0.2.0",
+        "grunt": "~0.4.1"
+    },
+    "peerDependencies": {
+        "grunt": "~0.4.1"
+    },
+    "keywords": [
+        "gruntplugin",
+        "wtml",
+        "html"
+    ]
 }
