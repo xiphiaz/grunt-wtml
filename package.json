@@ -1,7 +1,7 @@
 {
   "name": "grunt-wtml",
   "description": "Converts .wtml template files into .tpl.html files",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/xiphiaz/grunt-wtml",
   "author": {
     "name": "Zak Henry",
