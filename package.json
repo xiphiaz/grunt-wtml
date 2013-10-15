@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "wtml": "~0.0.0"
+    "wtml": ">=0.0.0"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.0",
